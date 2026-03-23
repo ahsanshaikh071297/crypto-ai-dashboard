@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import { sidebarMenu } from '../../data/sidebarMenu';
+import { sidebarMenu } from '../../data/SidebarMenu';
 
 function Sidebar() {
   return (
